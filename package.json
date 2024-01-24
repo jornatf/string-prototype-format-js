@@ -1,0 +1,36 @@
+{
+  "name": "string-prototype-format-js",
+  "version": "1.0.0",
+  "description": "A 'String.prototype' extension to format a string replacing variables.",
+  "main": "./index.js",
+  "keywords": [
+    "javascript",
+    "string-prototype",
+    "function",
+    "js",
+    "node",
+    "node-js",
+    "utils",
+    "package",
+    "npm",
+    "npm-package"
+  ],
+  "scripts": {
+    "test": "jest ./tests/*"
+  },
+  "author": {
+    "name": "Jordan",
+    "url": "https://jordnat.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jornatf/string-prototype-format-js.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
